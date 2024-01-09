@@ -5,12 +5,12 @@ A LoRa device built from the esp8266 designed for off-grid messaging with a disp
 Development Status:
 Pre-Alpha
 
-Development stages:
-Pre-Alpha ✅
-Alpha
-Beta
-Release 1.0
-TBD
+Development stages: \n
+Pre-Alpha ✅ \n
+Alpha \n
+Beta \n
+Release 1.0 \n
+TBD \n
 
 
 I will be trying my best to push frequent updates.
