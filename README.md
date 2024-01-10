@@ -12,9 +12,26 @@ I will be trying my best to push frequent updates.
 
 Current state: Designing boards
 
-Pre-Alpha/Alpha roadmap: Designing boards --> Starting basic feature programming --> Receive boards --> Solder boards --> Finish basic firmware --> Create a development board
+Pre-Alpha/Alpha roadmap: Designing boards --> Order boards --> Starting basic feature programming --> Receive boards --> Solder boards --> Finish basic firmware --> Create a development board
 
-Current state of board design: Implementing features (features left: SPI Display connection, I2C Keyboard connection)
-![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/a73f4f5c-30f6-40d7-965b-7cc1d05ac3b6)
+Current state of board design: Complete (features left: None (spi display replaced with i2c ssd1306))
+Current state of basic feature programming: Just started
 
-BoM: coming soon
+Board photos:
+![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/276aa1a7-efaa-4d1b-ae5c-9d6fcf4c3274)
+![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/a83e57b3-5d67-4a06-9c06-ffafa56d16b4)
+
+![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/11e85a3d-eca7-4a9f-811e-a79429c062d1)
+
+BoM: so far
+Wemos D1 Mini V4.0 (it has a flat side for easy mounting unlike the normal D1 Mini)
+RFM95/RFM95W
+0.96 in. OLED I2C SSD1306 (im using white instead of blue)
+EG1247 Switch (power switch for the pcb)
+TP4056 USB-C module (just look it up you will find it)
+‎150060BS75000‎ Blue LED (power LED)
+‎PPTC041LFBN-RC‎ 4-pin female header
+GRM155R61H104ME14J capacitor (x3) (for de-coupling)
+ERJ-3BQJ6R8V SMD Resistor (for the LED)
+CONSMA020.042-G (50 ohm sma connector for 1mm pcbs)
+2-pin jst connector SMD (x2) (battery and external power input, other than usb c) (can be excluded)
