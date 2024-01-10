@@ -2,6 +2,10 @@
 A LoRa device built from the esp8266 designed for off-grid messaging with a display, keyboard, battery, and a RFM95/RFM95W LoRa tranceiver
 
 
+CRUCIAL INFORMATION:
+The microstrip for the LoRa antenna is currently made for JLCPCB 1mm boards. I cannot gaurantee the functionality of the device or range tests on any other pcb manufacturer.
+
+
 Development Status:
 Pre-Alpha
 
