@@ -20,8 +20,9 @@ Current state of basic feature programming: Just started
 Board photos:
 ![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/276aa1a7-efaa-4d1b-ae5c-9d6fcf4c3274)
 ![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/a83e57b3-5d67-4a06-9c06-ffafa56d16b4)
+![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/dc64bfee-8421-4453-9c38-566e7c7aa546)
+![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/b2e87a25-e240-452f-94b8-b5b5bbd507ff)
 
-![image](https://github.com/BedlessBlade/BedlessMSG/assets/71991602/11e85a3d-eca7-4a9f-811e-a79429c062d1)
 
 BoM: so far
 Wemos D1 Mini V4.0 (it has a flat side for easy mounting unlike the normal D1 Mini)
