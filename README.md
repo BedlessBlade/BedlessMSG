@@ -14,7 +14,7 @@ Development stages: Pre-Alpha --> Alpha --> Beta --> Release 1.0 --> TBD
 
 I will be trying my best to push frequent updates.
 
-Current state: Designing boards
+Current state: Starting basic feature programming
 
 Pre-Alpha/Alpha roadmap: Designing boards --> Order boards --> Starting basic feature programming --> Receive boards --> Solder boards --> Finish basic firmware --> Create a development board
 
